@@ -1,0 +1,10 @@
+
+ftp:
+Sending to FTP of test account
+sending files
+transferring D:\ISSFTPUAT\test.txt
+1 files sent
+Files Successfully Sent!
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
